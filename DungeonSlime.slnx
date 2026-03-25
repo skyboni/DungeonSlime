@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DungeonSlime/DungeonSlime.csproj" />
+  <Project Path="MonoGameLibrary/MonoGameLibrary.csproj" Id="05f38163-3998-4c29-bb6b-c290cce377ff" />
+</Solution>
